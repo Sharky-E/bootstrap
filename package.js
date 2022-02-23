@@ -16,4 +16,5 @@ Package.onUse(api => {
     'dist/js/bootstrap.js'
   ], 'client')
 })
-//just a test¡£¡£¡£²âÊÔÒ»ÏÂgit clone
+//just a test¡£¡£¡£²âÊÔÒ»ÏÂgit clone ï¼ˆä¹±ç ä¸ºï¼šã€‚ã€‚ã€‚æµ‹è¯•ä¸€ä¸‹ï¼‰
+//just a test è§£å†³ä¹±ç 
